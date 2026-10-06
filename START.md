@@ -32,9 +32,8 @@
   ## 3. 雲端下載連結
 
   **Google Drive / OneDrive / Dropbox 資料下載連結：**  
-  ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+  https://fjucloud-my.sharepoint.com/:f:/g/personal/414351396_cloud_fju_edu_tw/IgBqn3X2GLbzR6BaCWrm5xBzAVz0H-yo1C2Opl9Wbz0ChnI?e=QEQqF2
 
-  > 注意：連結權限請設定為「知道連結的人都能檢視」，並放上實際要使用的資料檔，例如 `.csv` 檔。
 
   ---
 
